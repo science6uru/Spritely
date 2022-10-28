@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/science6uru/Spritely/main/my-image%20(1).png"
-        height="300">
+    <img src="https://raw.githubusercontent.com/science6uru/Spritely/main/my-image%20(2)%20(1).png" 
+    alt = "Logo Image" height= "500" width= "500">
 </p>
 <p align="center">
     <a href="https://discord.gg/xVtbCuaGfM">
@@ -21,6 +21,10 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 
 <p align="center">
 ImageMagick & Pip installation (brew)
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/science6uru/Spritely/main/my-image%20(2)%20(1).png" 
+    alt = "Logo Image" height= "500" width= "500">
 
 ```sh
 brew install imagemagick
