@@ -78,8 +78,8 @@ def main():
         if args.directory is None:
             sys.exit(0)
         args.directory = args.directory[0]
-        if args.out is None:
-            args.out = f"{args.directory}_{args.rows}x{args.columns}.png"
+    if args.out is None:
+        args.out = f"{args.directory}_{args.rows}x{args.columns}.png"
     img=create_sprite_from_directory(**args.__dict__)
     print(f"writing output file: {args.out}")
     img.save(filename=args.out)
