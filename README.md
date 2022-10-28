@@ -30,8 +30,7 @@ Spritely is a free & open-source tool for Mac & Linux systems to completely auto
 <p align="center">
     <a href="https://github.com/science6uru/Spritely#contribute">
     Contribute
-
-
+</a>
 
 # About and Features
 </p>
@@ -84,5 +83,5 @@ If you would like to contribute to the official project, you can message me @ Sc
     <img src="https://raw.githubusercontent.com/science6uru/Spritely/main/my-image%20(4)%20(1)%20(1).png" 
     alt = "Logo Image" height= "200" width= "200">
     
-   <sub>The Spritely™ logos and source code are solely owned and developed by Science6uru & collaborators. Public use of Spritely™ trademarks and source code are permitted given that the reproduction includes the original license and trademarks of Spritely.</sub>
+   <sub><sub><sub>The Spritely™ logos and source code are solely owned and developed by Science6uru & collaborators. Public use of Spritely™ trademarks and source code are permitted given that the reproduction includes the original license and trademarks of Spritely.</sub>
    
