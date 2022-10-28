@@ -17,8 +17,10 @@ Spritely is a free & open-source tool for Mac & Linux systems to completely auto
 
 Features include:
 
-*Recounting folders of images to a usable amount (Evenly spaced)
-*
+-Recounting folders of images to a usable amount (Evenly spaced)
+
+-Cropping all images in a folder to the max without cutting images off (crops all images evenly based on combined dimensions)
+
 # Installation and Setup
 First, if you haven't already, you will need to install Homebrew & ImageMagick. If you do not need homebrew you can skip ahead to step 2.
 <p align="center">
