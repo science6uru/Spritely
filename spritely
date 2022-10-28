@@ -1,0 +1,5 @@
+#!/bin/zsh
+source ~/Projects/spritely/.venv/bin/activate
+
+python ~/Projects/spritely/spritely.py "$@"
+
