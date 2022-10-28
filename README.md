@@ -31,6 +31,8 @@ Features include:
 - Arranging a folder of any amount of images into a usable spritesheet (Customizable grid specifications)
 
 - Allows to add padding to a whole image folder
+    
+- And much more to come...
 
 # Installation and Setup
 First, if you haven't already, you will need to install Homebrew & ImageMagick. If you do not need homebrew you can skip ahead to step 2.
