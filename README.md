@@ -10,6 +10,15 @@
 <p align="center">
 Spritely is a free & open-source tool for Mac & Linux systems to completely automate your spritesheet creation workflow with just a few commands in the terminal.
 
+# About and Features
+</p>
+<p align="center">
+Spritely is a free & open-source tool for Mac & Linux systems to completely automate your spritesheet creation workflow with just a few commands in the terminal. 
+
+Features include:
+
+*Recounting folders of images to a usable amount (Evenly spaced)
+*
 # Installation and Setup
 First, if you haven't already, you will need to install Homebrew & ImageMagick. If you do not need homebrew you can skip ahead to step 2.
 <p align="center">
