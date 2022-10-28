@@ -20,6 +20,11 @@ Spritely is a free & open-source tool for Mac & Linux systems to completely auto
 <p align="center">
     <a href="https://github.com/science6uru/Spritely#installation-and-setup">
     Installation and Setup
+        
+</p>
+<p align="center">
+    <a href="https://github.com/science6uru/Spritely#usage">
+    Usage
 
 
 
