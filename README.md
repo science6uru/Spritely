@@ -82,3 +82,9 @@ Coming soon
 # Contribute
 
 If you would like to contribute to the official project, you can message me @ Science6uru#8981 or join the Discord server linked above.
+
+    
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/science6uru/Spritely/main/my-image%20(4)%20(1)%20(1).png" 
+    alt = "Logo Image" height= "200" width= "200">
