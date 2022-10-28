@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/science6uru/Spritely/main/my-image.png"
+    <img src="https://raw.githubusercontent.com/science6uru/Spritely/main/my-image%20(1).png"
         height="300">
 </p>
 <p align="center">
