@@ -38,11 +38,6 @@ Spritely is a free & open-source tool for Mac & Linux systems to completely auto
 <p align="center">
 Spritely is a free & open-source tool for Mac & Linux systems to completely automate your spritesheet creation workflow with just a few commands in the terminal. 
 
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/science6uru/Spritely/main/my-image%20(4)%20(1)%20(1).png" 
-    alt = "Logo Image" height= "50" width= "50">
-
 Features include:
 
 - Recounting folders of images to a usable amount (Evenly spaced)
@@ -88,3 +83,6 @@ If you would like to contribute to the official project, you can message me @ Sc
 <p align="center">
     <img src="https://raw.githubusercontent.com/science6uru/Spritely/main/my-image%20(4)%20(1)%20(1).png" 
     alt = "Logo Image" height= "200" width= "200">
+    
+   <sub>The Spritely™ logos and source code are solely owned and developed by Science6uru & collaborators. Public use of Spritely™ trademarks and source code are permitted given that the reproduction includes the original license and trademarks of Spritely.</sub>
+   
