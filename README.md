@@ -75,7 +75,7 @@ Coming soon
     
 # Contribute
 
-If you would like to contribute to the official project, you can message me @ Science6uru#8981 or join the Discord server linked above.
+If you would like to contribute to the official project, you can message me @ ***Science6uru#8981*** or join the Discord server linked above.
 
     
 
