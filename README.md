@@ -64,3 +64,6 @@ brew install imagemagick
 brew install python
 brew unlink python && brew link python
 ```
+
+# Usage
+    
