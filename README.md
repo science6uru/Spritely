@@ -23,8 +23,8 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 ImageMagick & Pip installation (brew)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/science6uru/Spritely/main/my-image%20(2)%20(1).png" 
-    alt = "Logo Image" height= "500" width= "500">
+    <img src="https://raw.githubusercontent.com/science6uru/Spritely/main/my-image%20(4)%20(1).png" 
+    alt = "Logo Image" height= "200" width= "200">
 
 ```sh
 brew install imagemagick
