@@ -19,7 +19,9 @@ Features include:
 
 -Recounting folders of images to a usable amount (Evenly spaced)
 
--Cropping all images in a folder to the max without cutting images off (crops all images evenly based on combined dimensions)
+-Cropping all images in a folder to the max without cutting images / alpha off (crops all images evenly based on combined maximum dimensions)
+
+-
 
 # Installation and Setup
 First, if you haven't already, you will need to install Homebrew & ImageMagick. If you do not need homebrew you can skip ahead to step 2.
