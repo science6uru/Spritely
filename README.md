@@ -44,7 +44,7 @@ Features include:
 
 - Cropping all images in a folder to the max without cutting images / alpha off (crops all images evenly based on combined maximum dimensions)
 
-- Previewing spritesheet as a .GIF File
+- Previewing spritesheet as a .GIF File (Not pre-made spritesheets, only prepared ones are supported as of now)
 
 - Arranging a folder of any amount of images into a usable spritesheet (Customizable grid specifications)
 
