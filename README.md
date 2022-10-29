@@ -71,10 +71,8 @@ brew unlink python && brew link python
 
 Next, we're going to actually install Spritely. For now, you will have to get it straight from the GitHub, but in the future I hope to make it a git or pip install package.
 <p align="center">
-Spritely installation (From Zip)
-
-1. Download the ZIP file from the top of this GitHub page.
-2. (Continue here)
+Spritely installation 
+Coming soon
 
 # Usage
     
