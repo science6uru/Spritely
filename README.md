@@ -52,9 +52,9 @@ Features include:
 - And much more to come...
 
 # Installation and Setup
-First, if you haven't already, you will need to install Homebrew & ImageMagick. If you do not need homebrew you can skip ahead to step 2.
+First, if you haven't already, you will need to install Homebrew & ImageMagick(Required). If you do not need homebrew you can skip ahead to step 2.
 <p align="center">
-Homebrew installation (Required for Mac)
+Homebrew installation (Required for Mac, but still works on Linux systems)
 
 ```sh
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
