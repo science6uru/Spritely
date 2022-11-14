@@ -72,11 +72,13 @@ brew unlink python && brew link python
 Next, we're going to actually install Spritely. For now, you will have to get it straight from the GitHub, but in the future I hope to make it a git or pip install package.
 <p align="center">
 Spritely installation 
-Coming soon
 
+```sh
+gh repo clone science6uru/Spritely
+```
 # Usage
+Soming soon, for now check main()
     
-Coming soon 
     
 # Contribute
 
