@@ -84,13 +84,9 @@ Soming soon, for now check main()
 
 If you would like to contribute to the official project, you can message me @ ***Science6uru#8981*** or join the Discord server linked above.
 
-Feedback form: https://forms.gle/3rznXPTwmfx3iAFM7
 
-    
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/science6uru/Spritely/main/logos/my-image%20(4)%20(1)%20(1).png" 
     alt = "Logo Image" height= "250" width= "250">
     
-   <sub><sub><sub>The Spritely™ logos and source code are solely owned and developed by Science6uru & collaborators. Public use of Spritely™ trademarks and source code are permitted given that the reproduction includes the original license and trademarks of Spritely.</sub>
-   
