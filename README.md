@@ -77,14 +77,7 @@ Spritely installation
 gh repo clone science6uru/Spritely
 ```
 # Usage
-Soming soon, for now check main()
-    
-    
-# Contribute
-
-If you would like to contribute to the official project, you can message me @ ***Science6uru#8981*** or join the Discord server linked above.
-
-
+Just read main() lol
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/science6uru/Spritely/main/logos/my-image%20(4)%20(1)%20(1).png" 
