@@ -1,6 +1,7 @@
+
 <p align="center">
-    <img src="https://raw.githubusercontent.com/science6uru/Spritely/main/logos/my-image%20(2)%20(1).png" 
-    alt = "Logo Image" height= "300" width= "300">
+    <img src="https://raw.githubusercontent.com/science6uru/Spritely/main/logos/my-image%20(4)%20(1)%20(1).png" 
+    alt = "Logo Image" height= "250" width= "250">
 </p>
 <p align="center">
     <a href="https://discord.gg/xVtbCuaGfM">
