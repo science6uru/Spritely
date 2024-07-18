@@ -36,7 +36,7 @@ Spritely is a free Python tool to completely automate your spritesheet creation 
 # About and Features
 </p>
 <p align="center">
-Spritely is a free & open-source tool for Mac & Linux systems to completely automate your spritesheet creation workflow with just a few commands in the terminal. 
+Spritely is a free & open-source tool to completely automate your spritesheet creation workflow with just a few commands. 
 
 Features include:
 
