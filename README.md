@@ -55,7 +55,7 @@ Features include:
 # Installation and Setup
 First, if you haven't already, you will need to install Homebrew & ImageMagick(Required). If you do not need homebrew you can skip ahead to step 2.
 <p align="center">
-Homebrew installation (Required for Mac, but still works on Linux systems)
+Homebrew installation (Required for Mac)
 
 ```sh
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -70,7 +70,6 @@ brew install python
 brew unlink python && brew link python
 ```
 
-Next, we're going to actually install Spritely. For now, you will have to get it straight from the GitHub, but in the future I hope to make it a git or pip install package.
 <p align="center">
 Spritely installation 
 
@@ -78,7 +77,8 @@ Spritely installation
 gh repo clone science6uru/Spritely
 ```
 # Usage
-Just read main() lol
+Just read main() or run Spritely --help
+too lazy to cod allathat
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/science6uru/Spritely/main/logos/my-image%20(4)%20(1)%20(1).png" 
