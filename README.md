@@ -77,8 +77,7 @@ Spritely installation
 gh repo clone science6uru/Spritely
 ```
 # Usage
-Just read main() or run Spritely --help
-too lazy to cod allathat
+Just read main() or run Spritely --help, i'm too lazy to document allathat
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/science6uru/Spritely/main/logos/my-image%20(4)%20(1)%20(1).png" 
