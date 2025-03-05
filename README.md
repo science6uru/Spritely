@@ -1,8 +1,3 @@
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/science6uru/Spritely/main/logos/my-image%20(4)%20(1)%20(1).png" 
-    alt = "Logo Image" height= "250" width= "250">
-</p>
 <p align="center">
     <a href="https://discord.gg/xVtbCuaGfM">
         <img src="https://img.shields.io/discord/1034604635807285392?label=Discord&logo=Discord&style=for-the-badge"
@@ -77,9 +72,5 @@ Spritely installation
 gh repo clone science6uru/Spritely
 ```
 # Usage
-Just read main() or run Spritely --help, i'm too lazy to document allathat
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/science6uru/Spritely/main/logos/my-image%20(4)%20(1)%20(1).png" 
-    alt = "Logo Image" height= "250" width= "250">
+run spritely --help
     
